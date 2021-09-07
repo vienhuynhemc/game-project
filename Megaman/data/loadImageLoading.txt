@@ -1,0 +1,17 @@
+loading loading 32 29 400 115
+spriteLoading sprite1 0 0 100 100
+spriteLoading sprite2 100 0 100 100
+spriteLoading sprite3 200 0 100 100
+spriteLoading sprite4 300 0 100 100
+spriteLoading sprite5 0 100 100 100
+spriteLoading sprite6 100 100 100 100
+spriteLoading sprite7 200 100 100 100
+spriteLoading sprite8 300 100 100 100
+spriteLoading sprite9 0 200 100 100
+spriteLoading sprite10 100 200 100 100
+spriteLoading sprite11 200 200 100 100
+spriteLoading sprite12 300 200 100 100
+spriteLoading sprite13 0 300 100 100
+spriteLoading sprite14 100 300 100 100
+spriteLoading sprite15 200 300 100 100
+spriteLoading sprite16 300 300 100 100
