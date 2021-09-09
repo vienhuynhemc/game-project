@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/controller/Controller.java=UTF-8
+encoding//src/main/Main.java=UTF-8
+encoding//src/model/Bishop.java=UTF-8
+encoding//src/model/Chessman.java=UTF-8
+encoding//src/model/King.java=UTF-8
+encoding//src/model/Knight.java=UTF-8
+encoding//src/model/Model.java=UTF-8
+encoding//src/model/Node.java=UTF-8
+encoding//src/model/OriginalCondition.java=UTF-8
+encoding//src/model/Pawn.java=UTF-8
+encoding//src/model/Queen.java=UTF-8
+encoding//src/model/Rook.java=UTF-8
+encoding//src/view/GUIPromote.java=UTF-8
+encoding//src/view/PanelLeft.java=UTF-8
+encoding//src/view/PanelRight.java=UTF-8
+encoding//src/view/View.java=UTF-8
