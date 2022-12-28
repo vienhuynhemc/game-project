@@ -84,8 +84,8 @@ public class Controller {
 	}
 
 	// <!-- Yêu cầu tới model thực hiện nước đi của máy -->
-	public void itIsAITurn(int turn,int aiDepth) {
-		model.itIsAITurn(turn,aiDepth);
+	public void itIsAITurn(int turn, int aiDepth) {
+		model.itIsAITurn(turn, aiDepth);
 	}
 
 }

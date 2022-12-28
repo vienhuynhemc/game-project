@@ -178,8 +178,8 @@ public class View extends JFrame {
 	}
 
 	// <!-- Yêu cầu tới controller thực hiện nước đi của máy -->
-	public void itIsAITurn(int turn,int aiDepth) {
-		controller.itIsAITurn(turn,aiDepth);
+	public void itIsAITurn(int turn, int aiDepth) {
+		controller.itIsAITurn(turn, aiDepth);
 	}
 
 }
